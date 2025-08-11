@@ -13,4 +13,4 @@ def calculate(numbers):
             "min" : [list(arr.min(axis=0)), list(arr.min(axis=1)), arr.min()],
             "sum" : [list(arr.sum(axis=0)), list(arr.sum(axis=1)), arr.sum()],
         }
-return calculations
+    return calculations
