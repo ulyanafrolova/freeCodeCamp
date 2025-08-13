@@ -30,4 +30,4 @@ The dataset adult.data.csv is provided by [freeCodeCamp](https://www.freecodecam
 
 Reference:
 
-Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu).. Irvine, CA: University of California, School of Information and Computer Science.
+Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu). Irvine, CA: University of California, School of Information and Computer Science.
