@@ -26,7 +26,7 @@ This project analyzes demographic data from the U.S. Census dataset using Python
 
 ·most common occupations in India
 
-The dataset adult.data.csv is provided by [freeCodeCamp](https://www.freecodecamp.org/learn) for educational purposes.
+The dataset [adult.data.csv](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/adult.data.csv) is provided by [freeCodeCamp](https://www.freecodecamp.org/learn) for educational purposes.
 
 Reference:
 
