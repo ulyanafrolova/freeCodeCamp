@@ -8,20 +8,20 @@ This repository contains my completed projects from the Data Analysis with Pytho
 
 Transforms a list of 9 numbers into a 3×3 matrix and computes mean, variance, standard deviation, max, min, and sum across rows, columns, and the entire matrix. Built with NumPy and designed with input validation.
 
-### [Demographic Data Analyzer]()
+### [Demographic Data Analyzer](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/demographic_data_analyzer.py)
 
 This project analyzes demographic data from the U.S. Census dataset using Python and pandas and represents the following calculations:
 
-·Number of individuals in each race category
+·number of individuals in each race category
 
-·Average age of men
+·average age of men
 
-·Percentage of people with a Bachelor's degree
+·percentage of people with a Bachelor's degree
 
-·Income statistics based on education level
+·income statistics based on education level
 
-·Minimum weekly work hours and percentage of high earners among them
+·minimum weekly work hours and percentage of high earners among them
 
-·Country with the highest percentage of people earning >50K
+·country with the highest percentage of people earning >50K
 
-·Most common occupations in India
+·most common occupations in India
