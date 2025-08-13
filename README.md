@@ -25,3 +25,9 @@ This project analyzes demographic data from the U.S. Census dataset using Python
 ·country with the highest percentage of people earning >50K
 
 ·most common occupations in India
+
+The dataset adult.data.csv is provided by [freeCodeCamp](https://www.freecodecamp.org/learn) for educational purposes.
+
+Reference:
+
+Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu).. Irvine, CA: University of California, School of Information and Computer Science.
