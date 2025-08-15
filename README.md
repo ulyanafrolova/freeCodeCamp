@@ -38,4 +38,4 @@ Processes and visualizes a dataset of medical examinations. Calculates BMI to cl
 
 Categorical Plot – compares health indicators between patients with and without cardiovascular disease. [See result here](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/catplot.png)
 
-Heatmap – shows correlations between medical variables after filtering outliers. See result here
+Heatmap – shows correlations between medical variables after filtering outliers. [See result here](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/heatmap.png)
