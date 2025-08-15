@@ -32,10 +32,10 @@ Reference:
 
 Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu). Irvine, CA: University of California, School of Information and Computer Science.
 
-### [Medical Data Visualizer] (https://github.com/ulyanafrolova/freeCodeCamp/blob/main/medical_data_visualizer.py)
+### [Medical Data Visualizer](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/medical_data_visualizer.py)
 
 Processes and visualizes a dataset of medical examinations. Calculates BMI to classify patients as overweight, normalizes cholesterol and glucose data, and produces two visualizations:
 
-Categorical Plot – compares health indicators between patients with and without cardiovascular disease. See result here
+Categorical Plot – compares health indicators between patients with and without cardiovascular disease. [See result here](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/catplot.png)
 
 Heatmap – shows correlations between medical variables after filtering outliers. See result here
