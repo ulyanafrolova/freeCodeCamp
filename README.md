@@ -31,3 +31,11 @@ The dataset [adult.data.csv](https://github.com/ulyanafrolova/freeCodeCamp/blob/
 Reference:
 
 Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu). Irvine, CA: University of California, School of Information and Computer Science.
+
+### [Medical Data Visualizer] ()
+
+Processes and visualizes a dataset of medical examinations. Calculates BMI to classify patients as overweight, normalizes cholesterol and glucose data, and produces two visualizations:
+
+Categorical Plot – compares health indicators between patients with and without cardiovascular disease. See result here
+
+Heatmap – shows correlations between medical variables after filtering outliers. See result here
