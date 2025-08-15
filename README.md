@@ -32,7 +32,7 @@ Reference:
 
 Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu). Irvine, CA: University of California, School of Information and Computer Science.
 
-### [Medical Data Visualizer] ()
+### [Medical Data Visualizer] (https://github.com/ulyanafrolova/freeCodeCamp/blob/main/medical_data_visualizer.py)
 
 Processes and visualizes a dataset of medical examinations. Calculates BMI to classify patients as overweight, normalizes cholesterol and glucose data, and produces two visualizations:
 
