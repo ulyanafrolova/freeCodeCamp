@@ -2,6 +2,19 @@
 
 This repository contains my completed projects from the Data Analysis with Python course by freeCodeCamp.
 
+## Skills & Tools used:
+
+·Python 
+
+·Matplotlib
+
+·Pandas
+
+·NumPy
+
+·Seaborn
+
+
 ## Projects
 
 ### [Mean-Variance-Standard Deviation Calculator](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/mean_var_std.py)
