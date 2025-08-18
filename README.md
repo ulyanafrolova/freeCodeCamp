@@ -54,3 +54,12 @@ Categorical Plot – compares health indicators between patients with and withou
 Heatmap – shows correlations between medical variables after filtering outliers. [See result here](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/heatmap.png)
 
 ### [Page View Time Series Visualizer](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/time_series_visualizer.py)
+
+Analyzes daily page views from [freeCodeCamp](https://www.freecodecamp.org/learn) between May 2016 and December 2019, cleans the dataset(removes the top and bottom 2.5% of page views to eliminate extreme outliers and converts the date column into a datetime index for easier time-series handling) and creates visualizations(.png files) that highlight long-term trends and seasonal patterns in website traffic:
+
+Line Plot - shows overall page views over time and highlights the long-term upward/downward trends. See result here
+
+Bar Plot - displays the average monthly page views for each year and helps compare year-to-year performance.
+
+Box Plots - year-wise box plot shows how the distribution of page views changes over years and month-wise box plot reveals seasonal patterns across different months.
+
