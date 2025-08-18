@@ -59,7 +59,7 @@ Analyzes daily page views from [freeCodeCamp](https://www.freecodecamp.org/learn
 
 Line Plot - shows overall page views over time and highlights the long-term upward/downward trends. See result here
 
-Bar Plot - displays the average monthly page views for each year and helps compare year-to-year performance.
+Bar Plot - displays the average monthly page views for each year and helps compare year-to-year performance. [See result here](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/bar_plot.png)
 
 Box Plots - year-wise box plot shows how the distribution of page views changes over years and month-wise box plot reveals seasonal patterns across different months.
 
