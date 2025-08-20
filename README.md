@@ -1,6 +1,6 @@
 # freeCodeCamp
 
-This repository contains my completed projects from the Data Analysis with Python course by [freeCodeCamp](https://www.freecodecamp.org/learn).
+This repository contains my completed projects for the Data Analysis with Python course by [freeCodeCamp](https://www.freecodecamp.org/learn) I've completed with the [certification](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/Certficate.png).
 
 ## Skills & Tools used:
 
