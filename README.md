@@ -12,6 +12,8 @@ This repository contains my completed projects from the Data Analysis with Pytho
 
 ·NumPy
 
+·SciPy
+
 ·Seaborn
 
 
@@ -39,12 +41,6 @@ This project analyzes demographic data from the U.S. Census dataset using Python
 
 ·most common occupations in India
 
-To test this project, use the [adult.data.csv](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/adult.data.csv) dataset provided by [freeCodeCamp](https://www.freecodecamp.org/learn) for educational purposes.
-
-Reference:
-
-Dua, D. and Graff, C. (2019). [UCI Machine Learning Repository](http://archive.ics.uci.edu). Irvine, CA: University of California, School of Information and Computer Science.
-
 ### [Medical Data Visualizer](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/medical_data_visualizer.py)
 
 Processes and visualizes a dataset of medical examinations. Calculates BMI to classify patients as overweight, normalizes cholesterol and glucose data, and produces two visualizations:
@@ -63,3 +59,4 @@ Bar Plot - displays the average monthly page views for each year and helps compa
 
 Box Plots - year-wise box plot shows how the distribution of page views changes over years and month-wise box plot reveals seasonal patterns across different months. [See result here](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/box_plot.png)
 
+### [Sea Level Predictor]()
