@@ -41,9 +41,9 @@ Processes and visualizes a dataset of medical examinations. Calculates BMI to cl
 **Results:**
 
 > *Categorical Plot:*
-> ![Categorical Plot](catplot.png) 
+> ![Categorical Plot](images/catplot.png) 
 > *Correlation Heatmap:*
-> ![Heatmap](heatmap.png)
+> ![Heatmap](images/heatmap.png)
 
 ### [Page View Time Series Visualizer](https://github.com/ulyanafrolova/freeCodeCamp/blob/main/time_series_visualizer.py)
 Analyzes daily page views on the freeCodeCamp forum from May 2016 to December 2019. The dataset was cleaned by removing the top and bottom 2.5% of page views to eliminate extreme outliers. The date column was converted into a datetime index for time-series handling. 
@@ -55,11 +55,11 @@ Visualizations generated to highlight long-term trends and seasonal patterns:
 
 **Results:**
 > *Line Plot:*
-> ![Line Plot](line_plot.png) 
+> ![Line Plot](images/line_plot.png) 
 > *Box Plot:*
-> ![Box Plot](box_plot.png)
+> ![Box Plot](images/box_plot.png)
 > *Bar Plot:*
-> ![Bar Plot](bar_plot.png)
+> ![Bar Plot](images/bar_plot.png)
 
 ### Sea Level Predictor
 Analyzes historical datasets of global average sea level changes since 1880. This project uses **Pandas** to process the data and **Matplotlib** with **SciPy** to visualize and predict future sea levels. 
@@ -69,4 +69,4 @@ The script creates a scatter plot of historical data and uses `scipy.stats.linre
 
 **Results:**
 > *Sea Level Prediction Plot:*
-> ![Sea Level Plot](sea_level_plot.png) 
+> ![Sea Level Plot](images/sea_level_plot.png) 
